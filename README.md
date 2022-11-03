@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**wanjinhu/wanjinhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Wanjin.Hu, now i am a bioinformatics engineer.
 
-Here are some ideas to get you started:
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=wanjinhu&theme=dark&show_icons=true">](https://metrics.lecoq.io/wanjinhu#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=wanjinhu&show_icons=true">](https://metrics.lecoq.io/wanjinhu#gh-light-mode-only)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on microbial health services industry.
+- 🌱 I’m work using: 
+  ![R](https://img.shields.io/badge/-R-blue?style=plastic&logo=R)
+  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+
+
+- 😄 Pronouns: he/him
