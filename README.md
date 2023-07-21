@@ -8,7 +8,7 @@ I’m Wanjin.Hu, now i am a bioinformatics engineer.
 - I’m currently working on microbial health services industry.
 - Coding tools: 
 
-  ![R](https://img.shields.io/badge/-R-blue?style=plastic&logo=R)
+  [![R](https://img.shields.io/badge/-R-blue.svg)](https://www.r-project.org/)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
