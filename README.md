@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Wanjin.Hu, now i am a bioinformatics engineer.
+I’m Wanjin Hu (胡万金), now i am a bioinformatics engineer.
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=wanjinhu&theme=dark&show_icons=true">](https://metrics.lecoq.io/wanjinhu#gh-dark-mode-only)
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=wanjinhu&show_icons=true">](https://metrics.lecoq.io/wanjinhu#gh-light-mode-only)
@@ -9,10 +9,10 @@ I’m Wanjin.Hu, now i am a bioinformatics engineer.
 - Coding tools: 
 
   [![R](https://img.shields.io/badge/-R-blue?style=plastic&logo=R)](https://www.r-project.org/)
-  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
-  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+  [![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)](https://www.python.org/)
+  [![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)](https://www.gnu.org/software/bash/)
+  [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://code.visualstudio.com/)
+  [![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)](https://git-scm.com/)
 - Sequencing data analysis:
 
   ![16S](https://img.shields.io/badge/-16S-blue?style=plastic&logo=16S)
