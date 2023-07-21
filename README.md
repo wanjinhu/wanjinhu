@@ -15,16 +15,15 @@ I’m Wanjin Hu (胡万金), now i am a bioinformatics engineer.
   [![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)](https://git-scm.com/)
 - Sequencing data analysis:
 
-  ![16S](https://img.shields.io/badge/-16S-blue?style=plastic&logo=16S)
-  ![metagenomic](https://img.shields.io/badge/-metagenomic-8fcfd1?style=plastic&logo=metagenomic)
-  ![WGS](https://img.shields.io/badge/-WGS-007ACC?style=plastic&logo=WGS)
-  ![RNA_Seq](https://img.shields.io/badge/-RNA_Seq-blasck?style=plastic&logo=RNA_Seq)
+  [![amplicon](https://img.shields.io/badge/-amplicon-blue?style=plastic&logo=amplicon)](https://en.wikipedia.org/wiki/Amplicon)
+  [![metagenomic](https://img.shields.io/badge/-metagenomic-8fcfd1?style=plastic&logo=metagenomic)](https://en.wikipedia.org/wiki/Metagenomics)
+  [![WGS](https://img.shields.io/badge/-WGS-007ACC?style=plastic&logo=WGS)](https://en.wikipedia.org/wiki/Whole_genome_sequencing)
+  [![RNA_Seq](https://img.shields.io/badge/-RNA_Seq-blasck?style=plastic&logo=RNA_Seq)](https://en.wikipedia.org/wiki/RNA-Seq)
 - What sequencing tec i use:
 
   ![sanger](https://img.shields.io/badge/-sanger-8fcfd1?style=plastic&logo=sanger)
   ![illumina](https://img.shields.io/badge/-illumina-007ACC?style=plastic&logo=illumina)
   ![pacbio](https://img.shields.io/badge/-pacbio-blasck?style=plastic&logo=pacbio)
   ![nanopore](https://img.shields.io/badge/-nanopore-8fcfd1?style=plastic&logo=nanopore)
-- Pronouns: he/him
 - Trying to know this world
 
