@@ -1,26 +1,26 @@
-My name is Wanjin Hu (胡万金) and I am currently working as a researcher at Dipro MIM, and my research direction is the relationship between human health and microorganisms, especially focusing on the microorganisms in the gut. I used to work at Majorbio as a bioinformatics engineer, focus on the development of bioinformatics technology in microbial research, such as metagenomics, bacterial genomics and prokaryotic transcriptomics, etc.
+# Hi there, I'm Wanjin Hu (胡万金)👋
 
-You can check out some of the blogs I've written, here: [Wanjin Hu (胡万金)' blogs](https://wanjinhu.github.io/).
+## 👨‍🔬 About Me
 
-Some papers I've published, here: [Google Scholar](https://scholar.google.com/citations?user=Xwe2_ZcAAAAJ).
+- **Current Role:** Bioinformatic Researcher
+- **Top Technical Skills:**
+  - Coding: Python, R, Shell scripting
+  - Sequencing data analysis: amplicon, metagenomic, WGS, RNASeq
+  - Sequencing tec: sanger, illumina, pacbio, nanopore
+- **Some Projects:**  
+  - [Metagenomic-Analysis-Pipeline](https://github.com/wanjinhu/Metagenomic-Analysis-Pipeline) – A robust pipeline for metagenome data analysis.
+  - [reference_genome_download](https://github.com/wanjinhu/reference_genome_download) - A set of refence genomes download methods.
+  - [vennFlower](https://github.com/wanjinhu/vennFlower) - R package for creating venn flower plot. 
+- **Personal Website:** [wanjinhu.github.io](https://wanjinhu.github.io)
+- **Google Scholar:** [Wanjin Hu on Google Scholar](https://scholar.google.com/citations?user=Xwe2_ZcAAAAJ)
 
-我是一个存在主义者，喜欢思考人生，喜欢思考世界，喜欢思考未来。
+## 🏃 Personal Interests
 
-Coding tools : 
-  [![R](https://img.shields.io/badge/-R-blue?style=plastic&logo=R)](https://www.r-project.org/)
-  [![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)](https://www.python.org/)
-  [![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)](https://www.gnu.org/software/bash/)
-  [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://code.visualstudio.com/)
-  [![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)](https://git-scm.com/)
+- Hiking & Trail Running (marathon and trail running experience)
+- Reading
+- Reflect on my philosophy of life
+- I like to think I’m a fun guy sometimes! 😄
 
-Sequencing data analysis :
-  [![amplicon](https://img.shields.io/badge/-amplicon-blue?style=plastic&logo=amplicon)](https://en.wikipedia.org/wiki/Amplicon)
-  [![metagenomic](https://img.shields.io/badge/-metagenomic-8fcfd1?style=plastic&logo=metagenomic)](https://en.wikipedia.org/wiki/Metagenomics)
-  [![WGS](https://img.shields.io/badge/-WGS-007ACC?style=plastic&logo=WGS)](https://en.wikipedia.org/wiki/Whole_genome_sequencing)
-  [![RNA_Seq](https://img.shields.io/badge/-RNA_Seq-blasck?style=plastic&logo=RNA_Seq)](https://en.wikipedia.org/wiki/RNA-Seq)
+---
 
-Sequencing tec :
-  ![sanger](https://img.shields.io/badge/-sanger-8fcfd1?style=plastic&logo=sanger)
-  ![illumina](https://img.shields.io/badge/-illumina-007ACC?style=plastic&logo=illumina)
-  ![pacbio](https://img.shields.io/badge/-pacbio-blasck?style=plastic&logo=pacbio)
-  ![nanopore](https://img.shields.io/badge/-nanopore-8fcfd1?style=plastic&logo=nanopore)
+![Wanjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanjinhu&show_icons=true&theme=default)
